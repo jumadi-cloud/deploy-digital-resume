@@ -2,7 +2,7 @@
 Membuat dan mendeploy aplikasi digital resume menggunakan Streamlit
 
 ## [YouTube-Tutorials](https://youtu.be/NQaZLmgXAO8)
-### [Demo aplikasi dari tutorial ini] (https://jumadi-cloud-deploy-digital-resume-app-kmfp9o.streamlit.app/)
+### [Demo aplikasi dari tutorial ini](https://jumadi-cloud-deploy-digital-resume-app-kmfp9o.streamlit.app/)
 
 **Topics overview**  
 `Python` `Streamlit` `Machine-Learning` 
