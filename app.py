@@ -19,7 +19,7 @@ NAME = "Jumadi"
 DESCRIPTION = """
 Perkenalkan nama saya Jumadi,
 saya adalah seorang anak laki – laki ke enam dari tujuh bersaudara.
-Lahir di Brebes, 01 Juni 1992.
+Latar belakang pendidikan sistem informasi dan memiliki keahlian pemrograman.
 
 """
 EMAIL = "jumadijumadi470@gmail.com"
@@ -80,7 +80,6 @@ st.write('\n')
 st.subheader("Experience & Qulifications")
 st.write(
     """
-- ✔️ Latar belakang pendidikan sistem informasi dan memiliki keahlian pemrograman.
 - ✔️ 9 tahun berpengalaman teknis di bidang Supply Chain Management (SCM).
 - ✔️ 5 tahun berpengalaman dalam bidang IT.
 - ✔️ Menguasai data mining dan visuaisasi data menggunakan Streamlit.
