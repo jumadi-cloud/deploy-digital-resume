@@ -19,8 +19,9 @@ NAME = "Jumadi"
 DESCRIPTION = """
 Perkenalkan nama saya Jumadi, 
 saya adalah seorang praktisi di bidang IT khususnya di Artificial Intelligence, Machine Learning, Data Science, Programming. 
-Saya memiliki pengalaman 5 Tahun di Konsultan. Saya juga seorang Instruktur Praktisi yang sudah banyak mengajarkan pelatihan 
-ke beberapa Perusahaan terutama di Domain AI
+Saya memiliki pengalaman di Konsultan, Saya memiliki pengalaman project di beberapa perusahaan terutama di sektor e-commerce, jasa transportasi.
+Saya juga seorang Instruktur Praktisi yang sudah banyak mengajarkan pelatihan 
+ke beberapa Perusahaan terutama di Domain AI.
 
 """
 EMAIL = "jumadijumadi470@gmail.com"
