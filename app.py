@@ -19,7 +19,7 @@ NAME = "Jumadi"
 DESCRIPTION = """
 Perkenalkan nama saya Jumadi, 
 saya adalah seorang praktisi di bidang IT khususnya di Artificial Intelligence, Machine Learning, Data Science, Programming. 
-Saya memiliki pengalaman di Konsultan, pengalaman project di beberapa perusahaan terutama di sektor e-commerce, jasa transportasi.
+Saya memiliki pengalaman di Konsultan, mengerjakan project di beberapa perusahaan terutama di sektor e-commerce, jasa transportasi.
 Saya juga seorang Instruktur Praktisi yang sudah banyak mengajarkan pelatihan 
 ke beberapa Perusahaan terutama di Domain AI.
 
