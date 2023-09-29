@@ -17,9 +17,10 @@ PAGE_TITLE = "Digital Resume | Jumadi"
 PAGE_ICON = ":wave:"
 NAME = "Jumadi"
 DESCRIPTION = """
-Perkenalkan nama saya Jumadi,
-saya adalah seorang anak laki – laki ke enam dari tujuh bersaudara.
-Latar belakang pendidikan sistem informasi dan memiliki keahlian pemrograman.
+Perkenalkan nama saya Jumadi, 
+saya adalah seorang praktisi di bidang IT khususnya di Artificial Intelligence, Machine Learning, Data Science, Programming. 
+Saya memiliki pengalaman 5 Tahun di Konsultan. Saya juga seorang Instruktur Praktisi yang sudah banyak mengajarkan pelatihan 
+ke beberapa Perusahaan terutama di Domain Artificial Intelligence
 
 """
 EMAIL = "jumadijumadi470@gmail.com"
