@@ -101,22 +101,6 @@ st.write(
 """
 )
 
-# --- Education ---
-st.write('\n')
-st.subheader("Education")
-st.write(
-    """
-👨‍🎓 Universitas Nusa Mandiri, Jakarta
-S2, Ilmu Komputer · (Now)
-
-👨‍🎓 STMIK Nusa Mandiri, Jakarta
-S1, Sistem Informasi · (2017 - 2018)
-
-👨‍🎓 Universitas Bina Sarana Informatika, Jakarta
-D3, Manajemen Informatika · (2015 - 2017)
-"""
-)
-
 # --- WORK HISTORY ---
 st.write('\n')
 st.subheader("Work Experience")
