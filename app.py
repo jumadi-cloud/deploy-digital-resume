@@ -107,7 +107,9 @@ st.subheader("Education")
 st.write(
     """
 👨‍🎓 9 tahun berpengalaman teknis di bidang Supply Chain Management (SCM).
+
 👨‍🎓 5 tahun berpengalaman dalam bidang IT.
+
 👨‍🎓 Menguasai data mining dan visuaisasi data menggunakan Streamlit.
 """
 )
