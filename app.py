@@ -78,23 +78,6 @@ for index, (platform, link) in enumerate(SOCIAL_MEDIA.items()):
 
 
 # --- EXPERIENCE & QUALIFICATIONS ---
-# --- Bagian pengaturan foto profile ---
-col1, col2 = st.columns(2, gap="small")
-with col1:
-    st.image(profile_pic, width=270)
-    st.write("Programmer | Artificial Intelligence | Content Creator at Kelas Awan Pintar")
-
-with col2:
-    st.title(NAME)
-    st.write(DESCRIPTION)
-    st.download_button(
-        label=" 📄 Download Curicullum Vitae",
-        data=PDFbyte,
-        file_name=resume_file.name,
-        mime="application/octet-stream",
-    )
-    st.write("📫", EMAIL)
-
 st.write('\n')
 st.subheader("Experience & Qulifications")
 st.write(
