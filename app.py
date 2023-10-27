@@ -106,11 +106,14 @@ st.write('\n')
 st.subheader("Education")
 st.write(
     """
-👨‍🎓 9 tahun berpengalaman teknis di bidang Supply Chain Management (SCM).
+👨‍🎓 Universitas Nusa Mandiri, Jakarta
+S2, Ilmu Komputer · (Now)
 
-👨‍🎓 5 tahun berpengalaman dalam bidang IT.
+👨‍🎓 STMIK Nusa Mandiri, Jakarta
+S1, Sistem Informasi · (2017 - 2018)
 
-👨‍🎓 Menguasai data mining dan visuaisasi data menggunakan Streamlit.
+👨‍🎓 Universitas Bina Sarana Informatika, Jakarta
+D3, Manajemen Informatika · (2015 - 2017)
 """
 )
 
